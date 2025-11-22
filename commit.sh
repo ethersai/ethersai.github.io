@@ -1,5 +1,5 @@
 #!/bin/bash
 
 git add .
-git commit -m "Commit"
+git commit -m "Quick Commit"
 git push origin main

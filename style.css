@@ -4,10 +4,10 @@ body {
 }
 
 h1 {
-    color: #4fc3f7;
+    color: #005d88;
 }
 
 #clickMe {
     cursor: pointer;       /* Shows pointer on hover */
-    color: blue;           /* Makes it look clickable */
+    color: rgb(66, 66, 234);           /* Makes it look clickable */
 }
